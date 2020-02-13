@@ -42,3 +42,4 @@ suites:
       3i-nodejs:
         cloud_user: 'root'
         cloud_group: 'root'
+        cloud_homedir: '/root'
