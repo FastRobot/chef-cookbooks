@@ -1,6 +1,0 @@
-name '3i-rsyslog'
-maintainer 'Third Iron, LLC'
-maintainer_email 'mike@thirdiron.com'
-license 'all rights reserved'
-description 'Installs/Configures 3i-rsyslog'
-version '0.1.0'

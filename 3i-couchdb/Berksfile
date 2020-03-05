@@ -1,5 +1,0 @@
-source "https://supermarket.chef.io"
-
-metadata
-
-cookbook 'couchdb', '~ 2.5.2'
